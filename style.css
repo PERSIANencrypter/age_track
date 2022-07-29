@@ -2,7 +2,7 @@
   --back: royalblue;
 }
 
-#body{
+body{
   background-image: url('lol.jpg');
   background-size: 700px;
 }
