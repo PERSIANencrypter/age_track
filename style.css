@@ -1,0 +1,26 @@
+:root{
+  --back: royalblue;
+}
+
+#body{
+  background-image: url('/lol.jpg');
+  background-size: 700px;
+}
+
+#cont{
+  background-color: var(--back);
+  width: 70vw;
+  margin-top: 29vw;
+  border-radius: 10px;
+}
+#new{
+  background-color: var(--back);
+  width: 70vw;
+  margin-top: 29vw;
+  border-radius: 10px;
+}
+
+.tit{
+  
+}
+
